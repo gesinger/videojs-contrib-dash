@@ -3,6 +3,7 @@ module.exports = function(config) {
     'node_modules/video.js/dist/video-js/video-js.css',
     'node_modules/video.js/dist/video-js/video.dev.js',
     'node_modules/dashjs/dist/dash.all.debug.js',
+    'src/js/whitelist-ext.js',
     'src/js/videojs-dash.js'
   ];
 
